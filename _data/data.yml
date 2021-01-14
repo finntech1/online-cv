@@ -3,13 +3,13 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: false # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Finn Webber
     tagline: Android Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: berlin_tower_profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email:
@@ -45,7 +45,7 @@ career-profile:
     title: Career Profile
     summary: |
       Android Freelancer with 10+yrs experience and a special interest in security.
-      Based in Berlin, Germany but proud to originally from Johannesburg, South Africa
+      Based in Berlin, Germany but originally from Johannesburg, South Africa.
 education:
     - degree: BSc Information Technology
       university: University of Johannesburg
